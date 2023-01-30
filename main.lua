@@ -4,8 +4,6 @@
 
 --[[ VARIABLES ]]--
 
-print('app.uuid=925abbc56edc41cd8545b91c9d42b82c')
-
 local currentValue, requiredValue , steps, mode, score, timer, resetTime = 0, 30, 0, 5, 0, 10.0, 10.0
 local gameState = 0 -- 0 = menu, 1 = game
 local boxh= 0
