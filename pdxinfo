@@ -1,0 +1,7 @@
+name=A Deep Dive
+author=PossiblyAxolotl
+description=How deep can you go down the mariana trench before the pressure becoems too much to handle?
+bundleID=com.PossiblyAxolotl.aDeepDive
+version=1
+buildNumber=1
+imagePath=launcher
